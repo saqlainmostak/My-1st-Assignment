@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+}
+h1{
+    font-size: 70px;
+}
+.position{
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.flexing{
+    display: flex;
+   
+
+    
+
+}
+.Second-part{
+    display: flex;
+
+}
+.scroll{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.paint{
+    color: coral;
+}
+.Second-part img{
+    width: 30%;
+
+}
+
+
+.mission-color{
+    color: coral;
+}
+
+.width-control{
+    width: 50%;
+    padding-left: 5%;
+}
+.width-control img{
+    width: 80%;
+
+}
+.search-button{
+    background-color: darkgoldenrod;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 7px;
+
+}
+.target{
+    display: flex;
+    margin-bottom: 120px;
+    
+    
+}
+.color-managing{
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 25px;
+    border-radius: 12px;
+}
+#color-adjust1{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,green);
+    background-color: darkslategray;
+    box-shadow: 30px 22px 30px gray  ;
+}
+
+#color-adjust2{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,green);
+    background-color: dimgray;
+    box-shadow: 12px 12px 30px darkslateblue ;
+}
+#color-adjust3{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,green);
+    background-color: grey;
+    box-shadow: 12px 12px 30px darkslategray ;
+
+}
+.next-part{
+    display: flex;
+
+}
+.after-part{
+    display: flex;
+
+}
+.center{
+     text-align: center;
+    
+     
+     
+
+}
+.last-one{
+    color: darksalmon;
+
+}
+.color-setting{
+    background-color: darkslategray;
+
+}
